@@ -1,3 +1,4 @@
+Buenas
 # TALLER DE PROGRAMACION 2
 ## Instrucciones de resolución de examen
 
